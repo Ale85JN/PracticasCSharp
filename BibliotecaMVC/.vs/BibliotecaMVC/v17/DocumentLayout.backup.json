@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|c:\\users\\ale bobadilla\\onedrive\\escritorio\\backend\\mvc\\bibliotecamvc\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|c:\\users\\ale bobadilla\\onedrive\\escritorio\\backend\\mvc\\bibliotecamvc\\datos\\bibliotecadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|solutionrelative:datos\\bibliotecadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|c:\\users\\ale bobadilla\\onedrive\\escritorio\\backend\\mvc\\bibliotecamvc\\controllers\\editorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|solutionrelative:controllers\\editorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|c:\\users\\ale bobadilla\\onedrive\\escritorio\\backend\\mvc\\bibliotecamvc\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|c:\\users\\ale bobadilla\\onedrive\\escritorio\\backend\\mvc\\bibliotecamvc\\views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|solutionrelative:views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|c:\\users\\ale bobadilla\\onedrive\\escritorio\\backend\\mvc\\bibliotecamvc\\datos\\editorialdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF409115-E561-4C4F-900F-E1EAB741B1A6}|BibliotecaMVC.csproj|solutionrelative:datos\\editorialdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Views\\Autor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Views\\Autor\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Autor\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T04:48:36.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditorialController.cs",
+              "DocumentMoniker": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Controllers\\EditorialController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EditorialController.cs",
+              "ToolTip": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Controllers\\EditorialController.cs",
+              "RelativeToolTip": "Controllers\\EditorialController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T02:15:31.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Controllers\\AutorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:07:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditorialDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Datos\\EditorialDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\EditorialDatos.cs",
+              "ToolTip": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Datos\\EditorialDatos.cs",
+              "RelativeToolTip": "Datos\\EditorialDatos.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T02:44:01.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BibliotecaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Datos\\BibliotecaDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\BibliotecaDatos.cs",
+              "ToolTip": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Datos\\BibliotecaDatos.cs",
+              "RelativeToolTip": "Datos\\BibliotecaDatos.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:13:40.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Ale Bobadilla\\OneDrive\\Escritorio\\BackEnd\\MVC\\BibliotecaMVC\\Models\\Libro.cs",
+              "RelativeToolTip": "Models\\Libro.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:02:09.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
